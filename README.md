@@ -5,7 +5,7 @@
 </div>
 
 ### Web Developer
-* Main Stack : Java(Spring)
+* Stack : Java(Spring) / JSP / HTML / CSS / JavaScript ...
 
 ### Interest
 * Node.js / React.js / MongoDB
