@@ -4,7 +4,7 @@
 
 </div>
 
-### Baekend Developer
+### Bkend Developer
 * Main Stack : Java(Spring)
 
 ### Interest
