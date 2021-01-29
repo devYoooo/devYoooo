@@ -5,10 +5,13 @@
 </div>
 
 ### Web Developer
-* Stack : Java(Spring) / JSP / HTML / CSS / JavaScript ...
+* Stack : Java(Spring) / JSP / HTML / CSS / JavaScript / Oracle(MyBatis) ...
 
 ### Interest
-* Node.js / React.js / MongoDB
+* Node.js / SpringBoot
+* React.js / Vue.js
+* MySQL / MongoDB
+
 
 <!--
 **devYoooo/devYoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
