@@ -4,8 +4,8 @@
 
 </div>
 
-### Web Developer
-* Stack : Java(Spring) / JSP / HTML / CSS / JavaScript / Oracle(MyBatis) ...
+### Stack
+* Java(Spring) / JSP / HTML / CSS / JavaScript / Oracle(MyBatis) 
 
 ### Interest
 * Node.js / SpringBoot
