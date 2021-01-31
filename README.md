@@ -12,7 +12,7 @@
 
 
 ### Stack
-* Java / Spring3.0 / JSP / HTML / JavaScript / CSS / JQuery / Bootstrap / Oracle / MySQL / MyBatis
+* Java / Spring3.0 / JSP / HTML5 / JavaScript / CSS / JQuery / Bootstrap / Oracle / MySQL / MyBatis
 
 <!--
 <p align="left">
