@@ -12,7 +12,9 @@
 
 
 ### Stack
+* Java / Spring3.0 / JSP / HTML / JavaScript / CSS / JQuery / Bootstrap / Oracle / MySQL / MyBatis
 
+<!--
 <p align="left">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -26,6 +28,7 @@
 <img src="https://img.shields.io/badge/MySQL-F80000?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MyBatis-F7952B3?style=flat-square&logo=MyBatis&logoColor=white"/></a>
 </p>
+-->
 
 ### Interest
 * SpringBoot / Node.js / React.js / Vue.js / MongoDB
