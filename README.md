@@ -28,9 +28,7 @@
 </p>
 
 ### Interest
-* Node.js / SpringBoot
-* React.js / Vue.js
-* MySQL / MongoDB
+* SpringBoot / Node.js / React.js / Vue.js / MongoDB
 
 <br>
 
