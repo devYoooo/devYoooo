@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-F80000?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MyBatis-F80000?style=flat-square&logo=MyBatis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MyBatis-#353535?style=flat-square&logo=MyBatis&logoColor=white"/></a>
 </p>
 
 ### Interest
