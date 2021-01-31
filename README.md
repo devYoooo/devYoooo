@@ -4,7 +4,7 @@
 
 </div>
 
-<br>
+
 ### Stack
 
 <p align="left">
