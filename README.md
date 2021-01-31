@@ -34,11 +34,14 @@
 
 <br>
 
+<span align=center>
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://EuiSang-Yu.github.io/)](https://dmltkd1974.tistory.com/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCuS60c_kMTSfKlZw2cMgCBA) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmltkd1003@gmail.com)](mailto:dmltkd1003@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yus_9293/)](https://www.instagram.com/yus_9293/) 
 
+</span>
 
 <!--
 **devYoooo/devYoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
