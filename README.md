@@ -1,6 +1,6 @@
 <span align=center>
   
-##  👨‍💻 Backend Developer
+## Backend Developer
 
 </span>
 
