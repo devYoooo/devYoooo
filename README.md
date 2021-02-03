@@ -11,8 +11,7 @@
 </div>
 
 
-### Stack
-* Java / Spring3.0 / JSP / HTML5 / JavaScript(ES6) / CSS / JQuery / Bootstrap / Oracle / MySQL / MyBatis
+### 💬 [About Me](https://www.notion.so/Machine-Learning-Engineer-ab0e77aac255491ba7b339781a4f479f)
 
 <!--
 <p align="left">
@@ -30,8 +29,8 @@
 </p>
 -->
 
-### Interest
-* SpringBoot / Node.js / React.js / Vue.js / MSSQL / MongoDB
+### 🌱 Interest
+* Node.js & React.js
 
 <br>
 
