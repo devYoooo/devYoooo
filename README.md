@@ -13,6 +13,8 @@
 
 ### 💬 [About Me](https://www.notion.so/Machine-Learning-Engineer-ab0e77aac255491ba7b339781a4f479f)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuiSang-Yu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 <p align="left">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
