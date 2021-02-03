@@ -1,6 +1,6 @@
 <div align=right>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEuiSang-Yu&count_bg=%#FFE400&title_bg=%23555555&icon=&icon_color=%#FFE400&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEuiSang-Yu&count_bg=%#23555555&title_bg=%23555555&icon=&icon_color=%#FFE400&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
