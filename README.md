@@ -5,7 +5,7 @@
   
 </div>
 -->
-<span width=45%>
+<span>
 
 ### 😄 About Me
 
@@ -28,7 +28,7 @@
 </p>
 -->
 
-<span float=left width=45%>
+<span {float:left}>
 
 ### 🌱 Interest
 * Node.js
