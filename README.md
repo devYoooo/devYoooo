@@ -28,7 +28,7 @@
 </p>
 -->
 
-<span {float:left}>
+<span>{float:left}
 
 ### 🌱 Interest
 * Node.js
