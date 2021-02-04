@@ -5,13 +5,12 @@
   
 </div>
 -->
-<span>
+
 
 ### 😄 About Me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuiSang-Yu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</span>
 <!--
 <p align="left">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -28,13 +27,11 @@
 </p>
 -->
 
-<span>{float:left}
+
 
 ### 🌱 Interest
 * Node.js
 * React.js & React Native
-
-</span>
 
 <br>
 
