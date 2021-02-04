@@ -28,7 +28,8 @@
 -->
 
 ### 🌱 Interest
-* Node.js & React.js
+* Node.js
+* React.js & React Native
 
 <br>
 
