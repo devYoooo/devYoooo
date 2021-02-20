@@ -32,7 +32,7 @@
 ### 🌱 Interest
 * SpringBoot & JPA
 * Node.js & Express.js
-* React.js & React Native & Vue.js
+* React.js & Vue.js
 
 <br>
 
