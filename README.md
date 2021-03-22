@@ -7,6 +7,7 @@
 -->
 
 ### 😄 [About Me(click!)](https://www.notion.so/UiSang-Yu-4470d155a3814c47b04571a66f97843d)
+* 안녕하세요, 백엔드 개발자 유의상입니다.
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuiSang-Yu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
