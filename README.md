@@ -35,7 +35,7 @@ https://manong-x.tistory.com/
 ### 🌱 Interest
 * SpringBoot & JPA
 * Node.js & Express.js
-* React.js
+* React.js(redux)
 
 <br>
 
