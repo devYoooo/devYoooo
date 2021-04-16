@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmanong-x%2Fhit-counter&count_bg=%233B547C&title_bg=%238599BB&icon=lbry.svg&icon_color=%23E7E7E7&title=log&edge_flat=false)](https://hits.seeyoufarm.com)
 
-**백엔드 개발자 유의상입니다!**
+**백엔드 개발자 유의상입니다~**
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuiSang-Yu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,8 +28,8 @@ https://manong-x.tistory.com/
 
 
 
-* 🌱 I'm currently learning Springboot and JPA
-* 📫 How to reach me
+* ☘️ I'm currently learning Springboot and JPA
+* 📮 How to reach me
   * email : dmltkd1003@gmail.com
   * blog : http://manong-x.github.io
 
