@@ -1,13 +1,12 @@
-<!--
+
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEuiSang-Yu%2Fhit-counter&count_bg=%23F1E226&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
--->
 
-### 😄 [About Me(click!)](https://www.notion.so/UiSang-Yu-4470d155a3814c47b04571a66f97843d)
-* 안녕하세요, 백엔드 개발자 유의상입니다.
+
+**안녕하세요, 백엔드 개발자 유의상입니다**
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuiSang-Yu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,9 +32,10 @@ https://manong-x.tistory.com/
 
 
 ### 🌱 Interest
-* SpringBoot & JPA
-* Node.js & Express.js
-* React.js(redux)
+> 
+>> SpringBoot & JPA
+>> Node.js & Express.js
+>> React.js(redux)
 
 <br>
 
