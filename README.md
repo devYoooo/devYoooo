@@ -6,7 +6,7 @@
 
 
 
-🌞**안녕하세요, 백엔드 개발자 유의상입니다**
+**안녕하세요, 백엔드 개발자 유의상입니다!**
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuiSang-Yu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,10 +31,7 @@ https://manong-x.tistory.com/
 
 
 
-### 🌱 Interest
-> SpringBoot & JPA<br>
-Node.js & Express.js<br>
-React.js(redux)
+* 🌱How to contact me ?   
 
 <br>
 
