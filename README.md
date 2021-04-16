@@ -31,7 +31,7 @@ https://manong-x.tistory.com/
 
 
 
-* 🌱How to contact me ?   
+* 🌱**I am learning with interest in Springboot and JPA**
 
 <br>
 
