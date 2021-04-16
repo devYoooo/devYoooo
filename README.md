@@ -31,9 +31,9 @@ https://manong-x.tistory.com/
 
 
 
-- 🌱**I'm currently learning Springboot and JPA**
-- 📫**How to reach me**
-  --aa
+* 🌱 **I'm currently learning Springboot and JPA**
+* 📫 **How to reach me**
+  * **Email : dmltkd1003@gmail.com**
 
 <br>
 
