@@ -1,9 +1,9 @@
 
-<div align=center>
+<!-- <div align=center> -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEuiSang-Yu%2Fhit-counter&count_bg=%23F1E226&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-</div>
+
 
 
 **안녕하세요, 백엔드 개발자 유의상입니다**
@@ -32,12 +32,9 @@ https://manong-x.tistory.com/
 
 
 ### 🌱 Interest
-> 
->> SpringBoot & JPA<br>
-
->> Node.js & Express.js<br>
-
->> React.js(redux)
+> SpringBoot & JPA<br>
+Node.js & Express.js<br>
+React.js(redux)
 
 <br>
 
