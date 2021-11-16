@@ -3,10 +3,10 @@
 
 # [About Me](https://www.notion.so/4470d155a3814c47b04571a66f97843d)
 
-### Hello, I'm a backend developer ! 🖐️
+### Hello, I'm a web developer ! 🖐️
 
 * I'm currently learning...
-  * Springboot & JPA & thymeleaf
+  * Springboot & JPA
   * Node.js & React.js
  
 <br>
