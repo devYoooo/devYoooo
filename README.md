@@ -7,6 +7,7 @@
   
   # TMI 💬
   블로그: https://yuuisang.github.io
+  <br>
   이메일: clothes.yoo@gmail.com
 
   <br>
