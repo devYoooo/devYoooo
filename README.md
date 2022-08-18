@@ -1,7 +1,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmanong-x%2Fhit-counter&count_bg=%233B547C&title_bg=%238599BB&icon=lbry.svg&icon_color=%23E7E7E7&title=log&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<div style="text-align:center;">
 ![EuiSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuisang&show_icons=true&theme=cobalt)
+</div>
 
 # TMI 💬
 - 블로그: https://yuuisang.github.io
