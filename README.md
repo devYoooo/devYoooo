@@ -6,8 +6,7 @@
   ![EuiSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuisang&show_icons=true&theme=cobalt)
   
   # TMI 💬
-  블로그: https://yuuisang.github.io
-  <br>
+  <!--블로그: https://yuuisang.github.io-->
   이메일: clothes.yoo@gmail.com
 
   <br>
